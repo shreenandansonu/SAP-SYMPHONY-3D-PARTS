@@ -1,7 +1,7 @@
 # Image Gallery
 
 ## Image 1
-![Image 1](https://example.com/front.png)
+![Image 1](https://raw.githubusercontent.com/shreenandansonu/SAP-SYMPHONY-3D-PARTS/main/SAP-SYMPHONY-3D-PARTS/rendered%20images/front.png)
 *Tagline: A beautiful sunrise over the mountains.*
 
 ## Image 2
