@@ -1,5 +1,4 @@
 # RENDERED IMAGE
-
 ## Top
 ![Top](https://raw.githubusercontent.com/shreenandansonu/SAP-SYMPHONY-3D-PARTS/main/SAP-SYMPHONY-3D-PARTS/rendered%20images/top.png)
 *Tagline: Top view.*
